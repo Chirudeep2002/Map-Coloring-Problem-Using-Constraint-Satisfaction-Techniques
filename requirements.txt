@@ -1,0 +1,11 @@
+Below Packages need to be installed to run the program
+
+Package Names - 
+1) networkx
+2) matplotlib
+3) prettytable
+
+Use commands
+pip install networkx
+pip install matplotlib
+pip install prettytable
